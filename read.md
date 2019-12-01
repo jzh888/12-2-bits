@@ -1,4 +1,4 @@
-# ML model for prediction of new ideas.</br>
+# Prediction of new ideas</br>
 
 TOOLS</br>
 1) Jupyter notebook</br>
